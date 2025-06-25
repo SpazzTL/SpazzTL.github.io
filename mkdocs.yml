@@ -1,5 +1,5 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+site_name: Asian Languge Learning Guide
+site_url: https://spazztl.github.io/
 theme:
   name: material
   palette:
@@ -22,3 +22,25 @@ theme:
   font:
    # text: Merriweather Sans
     code: Red Hat Mono
+  features:
+  - navigation.tabs
+  
+  
+nav:
+  #- Home: home.md
+  - Korean:
+      - 'Getting Started': korean.md
+  - Japanese: japanese.md
+  - Chinese: chinese.md
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      permalink_title: Anchor link to this section for reference
+    
+      baselevel: "3"
+      toc_depth: "3"
+      
+  - pymdownx.superfences
+  - pymdownx.tabbed: 
+      alternate_style: true 

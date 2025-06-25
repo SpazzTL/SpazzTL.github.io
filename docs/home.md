@@ -1,4 +1,26 @@
-## Welcome
+# Welcome to the Ultimate Korean Guide!
 
-This is mainly a guide to learning Korean, however I include links to helpful resources for other languages, such as Japanese and Chinese.
+<div class="grid cards" markdown>  
 
+-   :flag_kr: **Korean**
+    <small>An in-depth, modern guide to learning Korean!</small><br>
+    [:octicons-arrow-right-24: Take me there](korean.md)
+    { .md-button }
+
+-   :flag_jp: **Japanese**
+    <small>Find other great guides about Japanese!</small><br>
+    [:octicons-arrow-right-24: Take me there](japanese.md)
+    { .md-button }
+
+-   :flag_cn: **Chinese**
+    <small>Find other great guides about Chinese!</small> <br>
+    [:octicons-arrow-right-24: Take me there](chinese.md)
+    { .md-button }
+
+</div>
+
+## Getting Started Quickly
+
+Click the button below to jump straight to the Korean Getting Started guide:
+
+[Go to Korean Getting Started](korean.md){ .md-button .md-button--primary }

@@ -1,5 +1,7 @@
-site_name: Asian Languge Learning Guide
+site_name: Ultimate Korean Guide
 site_url: https://spazztl.github.io/
+extra_css:
+  - css/custom.css
 theme:
   name: material
   palette:
@@ -30,17 +32,22 @@ nav:
   #- Home: home.md
   - Korean:
       - 'Getting Started': korean.md
+      - 'Resources': koreanresources.md
   - Japanese: japanese.md
   - Chinese: chinese.md
+  - Contact: contact.md
 
 markdown_extensions:
   - toc:
       permalink: "#"
       permalink_title: Anchor link to this section for reference
-    
-      baselevel: "3"
-      toc_depth: "3"
-      
+      baselevel: 1   
+      toc_depth: 4
+  - md_in_html
+  - attr_list
   - pymdownx.superfences
-  - pymdownx.tabbed: 
-      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true

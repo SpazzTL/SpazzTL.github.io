@@ -1,2 +1,2 @@
-# Chinese Resources;
+# Chinese Resources
 * [Heavenly Path's Guide](https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c#5c9949a8e73b4dab8f72c95d383d3bcf)

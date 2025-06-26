@@ -2,3 +2,5 @@ Use [github](https://github.com/SpazzTL/SpazzTL.github.io) to request features, 
 
 
 Contact *spazz.kr@gmail.com* for legal issues.
+
+---

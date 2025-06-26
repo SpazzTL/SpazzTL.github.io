@@ -1,28 +1,27 @@
-<head ><meta name="google-site-verification" content="C1wugqmplkvqxpiPfLqImFMZ5aHxo2zgTLaigExZve8" /></head>
+# The Ultimate Language Guide
 
-# Welcome to the Ultimate Korean Guide!
-## Currently WIP :construction:
-<div class="grid cards" markdown>  
+## Your Path to Fluency in Korean, with Resources for Japanese & Chinese
 
--   [:flag_kr: **Korean**<br>
-    <small>An in-depth, modern guide to learning Korean!</small><br>
-    :octicons-arrow-right-24: Take me there](korean.md)
-    { .md-button }
+<small>:construction: **Currently in active development!** The Korean guide is a work in progress (W.I.P.), but feel free to explore the excellent Japanese and Chinese resources, as many concepts are transferable. :construction:</small>
 
--   [:flag_jp: **Japanese**<br>
-    <small>Find other great guides about Japanese!</small><br>
-    :octicons-arrow-right-24: Take me there](japanese.md)
-    { .md-button }
+---
+
+## Language Guides & Resources
+
+* :flag_kr: **Korean**
+    An in-depth, modern guide designed for comprehensive learning. (W.I.P.)
+    [:octicons-arrow-right-24: View Korean Guide](korean.md)
+
+* :flag_jp: **Japanese**
+    Discover curated resources and other great guides.
+    [:octicons-arrow-right-24: Explore Japanese Resources](japanese.md)
     
--   [:flag_cn: **Chinese**<br>
-    <small>Find other great guides about Chinese!</small> <br>
-    :octicons-arrow-right-24: Take me there](chinese.md)
-    { .md-button }
+* :flag_cn: **Chinese**
+    Discover curated resources and other great guides.
+    [:octicons-arrow-right-24: Discover Chinese Resources](chinese.md)
 
-</div>
+---
 
-## Getting Started Quickly
+(Or click the tabs at the top of your screen * Desktop)
 
-Click the button below to jump straight to the Korean Getting Started guide:
-
-[Go to Korean Getting Started](korean.md){ .md-button .md-button--primary }
+(Or click the tabs in the menu * Mobile)

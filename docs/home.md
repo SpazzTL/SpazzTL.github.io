@@ -1,3 +1,5 @@
+<head ><meta name="google-site-verification" content="C1wugqmplkvqxpiPfLqImFMZ5aHxo2zgTLaigExZve8" /></head>
+
 # Welcome to the Ultimate Korean Guide!
 ## Currently WIP :construction:
 <div class="grid cards" markdown>  

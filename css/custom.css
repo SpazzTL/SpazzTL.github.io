@@ -1,0 +1,8 @@
+
+.image {
+    height: 400px !important; 
+    max-width: 100% !important;
+    display: block !important; 
+    margin: 0 auto !important; /* To center it */
+    
+}

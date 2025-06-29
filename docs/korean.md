@@ -1,12 +1,33 @@
 # Welcome to Your Korean Language Journey!
 
-Welcome to the beginning of your Korean language journey! This guide will walk you through the essential steps to get started with learning Korean effectively.
 #  :construction:WIP:construction:
+## Intro
+Welcome to the beginning of your Korean language journey! This guide will walk you through the essential steps to get started with learning Korean effectively.
+
+
+Let me first and foremost start with a small warning; this guide is HEAVILY WIP. This guide is also HEAVILY influenced by [:octicons-arrow-right-24:Japanese Resources](japanese.md). Almost all of the Japanese resources are transferable with some work! Additional Korean Resources can be found in the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page.
+
+Now that we have the out of the way, here is some cruicial info for learning Korean! 
+
+---
+
+* Make sure to have a goal!
+
+Having a concrete goal in mind will keep you motivated and most importantly CONSISTENT! It also lets you know how and what you should study. (e.g., reading, conversation, or speech).
+
+* Don't use Duolingo.
+
+Although fun, Duolingo and most other language learning apps are extremely inefficient, and made just to steal your time and money. They should be discarded after entering the beginning phases of learning.
+
+* Stay Consistent!
+
+It's really that simple, just stay consistent. This is the most important part of language learning. Everything else is easy.
+
 ---
 
 ## Hangul: The Korean Alphabet
 
-The first crucial step to learning Korean is mastering Hangul, the Korean alphabet. There are 24 basic characters to learn. Do not be concerned with the specific method of learning them – whether through writing or other resources.
+Your first step into learning Korean is mastering Hangul, the Korean alphabet. There are 24 basic characters to learn. Do not be concerned with the specific method of learning them – whether through writing or other resources.
 
 Below are a few recommended resources to assist in learning Hangul:
 
@@ -16,8 +37,8 @@ Below are a few recommended resources to assist in learning Hangul:
 
 ---
 
-## Anki: Spaced Repetition System
-
+## Vocab with Anki
+Now its time to learn some vocab, and there exist few ways better than Anki for learning Vocabulary quickly and easily.
 ### Installation
 
 [Anki](https://docs.ankiweb.net/platform/windows/installing.html){target="_blank" rel="noopener"} is an indispensable tool for language learning. It is a Spaced Repetition System (SRS)-based flashcard program that optimizes review schedules to maximize retention. Anki is free on Desktop (Windows, macOS, Linux) and Android devices. Please note that it costs $24.99 on Apple iOS devices.
@@ -35,7 +56,7 @@ Some recommended decks include:
 * [TTMIK's First 500 Korean Words](https://ankiweb.net/shared/info/1551455917){target="_blank" rel="noopener"}
 * [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} (Features multilingual support)
 
-Aim to learn approximately 20 new words daily and diligently complete reviews. Consistency is paramount for making significant progress. As new words are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. Content choices should align with specific learning goals (e.g., reading, conversation, or speech).
+Start with just one or two decks and aim to learn approximately 20 new words daily and diligently complete reviews. Consistency is paramount for making significant progress. As new words are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. Content choices should align with specific learning goals (e.g., reading, conversation, or speech).
 
 ---
 
@@ -83,6 +104,6 @@ With dictionaries installed, open Yomitan settings and import settings using [th
 
 Yomitan lookups should now function. Hold shift for bilingual lookups, and alt-shift for monolingual. To set up Anki, refer to other guides, such as [Moes Way](https://learnjapanese.moe/yomichan/){target="_blank" rel="noopener"}.
 
-### TTSU Reader: Online Epub Reader
+## TTSU Reader: Online Epub Reader
 
-[TTSU Reader](https://reader.ttsu.app){target="_blank" rel="noopener"} is an online EPUB reader that works seamlessly with Yomitan, as demonstrated in the examples above. Its primary benefit is enabling easy copy-pasting of text and Yomitan usage. EPUBs can be sourced in various ways, some of which will be listed in the Resources section [TODO].
+[TTSU Reader](https://reader.ttsu.app){target="_blank" rel="noopener"} is an online EPUB reader that works seamlessly with Yomitan, as demonstrated in the examples above. Its primary benefit is enabling easy copy-pasting of text and Yomitan usage. EPUBs can be sourced in various ways, some of which will be listed in the [:octicons-arrow-right-24:Korean Resources](koreanresources.md).

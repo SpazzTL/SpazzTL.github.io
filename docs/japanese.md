@@ -1,4 +1,5 @@
 # Japanese Resources
+Below are some of the best Japanese language learning guides and resources I have found. Each one is immensely useful and filled with transferable resources.
 
 * <a href=https://learnjapanese.moe/guide/ target="_blank" rel="noopener"> The Moe Way </a> is an online website, similar to this one, but much better. Especially for JP.
 * <a href=https://lazyguidejp.github.io/jp-lazy-guide/ target="_blank" rel="noopener"> Lazy Guide to Japanese </a> is like Moes Way, but focused more on automation Setup. (Transfers to Korean easily.)

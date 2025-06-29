@@ -25,3 +25,5 @@
 (Or click the tabs at the top of your screen * Desktop)
 
 (Or click the tabs in the menu * Mobile)
+
+<small>This guide was last updated ```June, 29, 2025``` !</small>

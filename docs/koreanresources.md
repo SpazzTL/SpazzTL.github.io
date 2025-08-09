@@ -17,6 +17,7 @@
 * <a href="https://github.com/SpazzTL/NovelpiaDownloader" target="_blank" rel="noopener">My Fork of Novelpia Downloader</a> Adds a bunch of features such as: Improved EPUB Formatting, File Size Optimization, Author Notices Support.
 * <a href="https://spazztl.github.io/Novelpedia/" target="_blank" rel="noopener">Novelpedia</a> A website I made to easily search and filter Korean (and Chinese currently.) webnovels. Useful for finding something to read. 
 * <a href="https://reader.ttsu.app" target="_blank" rel="noopener"> TTSU Reader </a> Great web based epub reader (made for japanese, character counter does NOT work in korean). 
+* <a href="https://peldas.github.io/ebook-reader-korean/manage" target="_blank" rel="noopener"> Korean Fork of TTSU Reader </a> A OLD fork that works better with Korean. ( I personally use use the original, dont need the character counter. )
 * <a href="https://github.com/killergerbah/asbplayer" target="_blank" rel="noopener"> ASB Player </a> Greate multi-lingual video player!
 ---
 # More Resources (Sites ETC)

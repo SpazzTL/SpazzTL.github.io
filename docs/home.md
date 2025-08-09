@@ -26,4 +26,4 @@
 
 (Or click the tabs in the menu * Mobile)
 
-<small>This guide was last updated ```June, 29, 2025``` !</small>
+<small>This guide was last updated ```August, 09, 2025``` !</small>

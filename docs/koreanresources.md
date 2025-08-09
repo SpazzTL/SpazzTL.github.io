@@ -6,16 +6,17 @@
 
 ---
 # Audio
-* none for now...
+
 ---     
-# Video
-* [Stremio](https://web.stremio.com/) Allows you to easily stream and organize content you have access to. ( I use viren070's setup, You download can subtitles seperately and use Asb-player for mining)
+# Video 
+
+
 ---
-# Tools
+# Tools 
 * <a href="https://github.com/CjangCjengh/NovelpiaDownloader/releases" target="_blank" rel="noopener">Novelpia Downloader</a> Download Novelpia novels you have access to (requires novelpia account). 
 * <a href="https://github.com/SpazzTL/NovelpiaDownloader" target="_blank" rel="noopener">My Fork of Novelpia Downloader</a> Adds a bunch of features such as: Improved EPUB Formatting, File Size Optimization, Author Notices Support.
 * <a href="https://spazztl.github.io/Novelpedia/" target="_blank" rel="noopener">Novelpedia</a> A website I made to easily search and filter Korean (and Chinese currently.) webnovels. Useful for finding something to read. 
-* <a href="https://reader.ttsu.app" target="_blank" rel="noopener"> TTSU Reader </a> Great for reading. 
+* <a href="https://reader.ttsu.app" target="_blank" rel="noopener"> TTSU Reader </a> Great web based epub reader (made for japanese, character counter does NOT work in korean). 
 * <a href="https://github.com/killergerbah/asbplayer" target="_blank" rel="noopener"> ASB Player </a> Greate multi-lingual video player!
 ---
 # More Resources (Sites ETC)

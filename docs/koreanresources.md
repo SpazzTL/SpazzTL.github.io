@@ -19,7 +19,7 @@
 * <a href="https://peldas.github.io/ebook-reader-korean/manage" target="_blank" rel="noopener"> Korean Fork of TTSU Reader </a> A OLD fork that works better with Korean (Does not receive updates). (if you dont need the character counter/progress bar/reading stats, original works fine otherwhise use this or my fork below.)
 * <a href="https://spazztl.github.io/korean-ebook-reader/manage" target="_blank" rel="noopener"> My Korean Fork of TTSU Reader </a> An updated version of Peldas's (the above link.) Requires setup in settings, will not get support from me. (change text layout to horizontal.)
 * <a href="https://github.com/killergerbah/asbplayer" target="_blank" rel="noopener"> ASB Player </a> Great multi-lingual video player!
-* <a href="https://github.com/SpazzTL/Novel-To-Anki" target="_blank" rel="noopener"> Novel to Anki </a> Take a epub or txt and convert it into a anki deck, with sentences and definitions. 
+* <a href="https://github.com/SpazzTL/Novel-To-Anki" target="_blank" rel="noopener"> Novel to Anki </a> Script I made; Take a epub or txt and convert it into a anki deck, with sentences and definitions. (Requires tinkering!)
 * <a href="https://github.com/SpazzTL/Supplemental-Korean-Dictionary/tree/main" target="_blank" rel="noopener">Supplemental Korean Dictionary </a>My WIP Dictionary (not yet available) and a custom program to make a custom Yomitan dictionary much easier. Or modify an existing one.
 * <a href="https://github.com/kaihouguide/Mangatan?tab=readme-ov-file#for-pc-desktop" target="_blank" rel="noopener">Mangatan</a> Similar to the Japanese OCR [Mokuro](https://github.com/kha-white/mokuro){target="_blank" rel="noopener"}, allows you to read Manhwa in your browser with Yomitan support. 
 

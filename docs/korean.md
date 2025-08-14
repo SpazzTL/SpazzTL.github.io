@@ -56,7 +56,6 @@ Some recommended decks include:
 * [TTMIK's First 500 Korean Words](https://ankiweb.net/shared/info/1551455917){target="_blank" rel="noopener"}
 * [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} 
 * Make your own with an epub with Novel to Anki (Very scrappy, results will not be perfect) [Here](koreanresources.md)
-(Features multilingual support)
 
 Start with just one or two decks and aim to learn approximately 20 (or 40 if you have a lot of time) new words daily and diligently complete reviews. Consistency is paramount for making significant progress. As new words are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. Content choices should align with specific learning goals (e.g., reading, conversation, or speech).
 

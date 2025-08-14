@@ -20,6 +20,7 @@
 * <a href="https://spazztl.github.io/korean-ebook-reader/manage" target="_blank" rel="noopener"> My Korean Fork of TTSU Reader </a> An updated version of Peldas's (the above link.) Requires setup in settings, will not get support from me. (change text layout to horizontal.)
 * <a href="https://github.com/killergerbah/asbplayer" target="_blank" rel="noopener"> ASB Player </a> Great multi-lingual video player!
 * <a href="https://github.com/SpazzTL/Novel-To-Anki" target="_blank" rel="noopener"> Novel to Anki </a> Take a epub or txt and convert it into a anki deck, with sentences and definitions. 
+* <a href="https://github.com/SpazzTL/Supplemental-Korean-Dictionary/tree/main" target="_blank" rel="noopener">Supplemental Korean Dictionary </a>My WIP Dictionary (not yet available) and a custom program to make a custom Yomitan dictionary much easier. Or modify an existing one.
 ---
 # More Resources (Sites ETC)
 * <a href="https://www.reddit.com/r/Korean/comments/hw4gy0/the_ultimate_beginners_resource_thread/" target="_blank" rel="noopener"> Reddit Beginner Korean Megathread </a>

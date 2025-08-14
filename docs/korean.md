@@ -17,7 +17,7 @@ Having a concrete goal in mind will keep you motivated and most importantly CONS
 
 * Don't use Duolingo.
 
-Although fun, Duolingo and most other language learning apps are extremely inefficient, and made just to steal your time and money. They should be discarded after entering the beginning phases of learning.
+Although fun, Duolingo and most other language learning apps are extremely inefficient, and made just to steal your time and money. They should be discarded after entering the beginning middle to upper phases of learning. That being said, if you enjoy Duolingo, it's better than nothing, and this is just an opinion... 
 
 * Stay Consistent!
 

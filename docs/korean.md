@@ -54,9 +54,17 @@ Some recommended decks include:
 * [Korean Grammar Sentences by Evita](https://ankiweb.net/shared/info/3614346923){target="_blank" rel="noopener"}
 * [Korean Vocabulary by Evita](https://ankiweb.net/shared/info/4066961604){target="_blank" rel="noopener"}
 * [TTMIK's First 500 Korean Words](https://ankiweb.net/shared/info/1551455917){target="_blank" rel="noopener"}
-* [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} (Features multilingual support)
+* [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} 
+* Make your own with an epub with Novel to Anki (Very scrappy, results will not be perfect) [Here](koreanresources.md)
+(Features multilingual support)
 
-Start with just one or two decks and aim to learn approximately 20 new words daily and diligently complete reviews. Consistency is paramount for making significant progress. As new words are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. Content choices should align with specific learning goals (e.g., reading, conversation, or speech).
+Start with just one or two decks and aim to learn approximately 20 (or 40 if you have a lot of time) new words daily and diligently complete reviews. Consistency is paramount for making significant progress. As new words are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. Content choices should align with specific learning goals (e.g., reading, conversation, or speech).
+
+
+Some tips if you struggle with remembering new words:
+* Write down the new words, sound them out as you do so, and think of the actual meaning/action/object, not the english meaning.
+* Practice making sentences with the new words!
+* Watch/Read/Engage with media where the word appears frequently.
 
 ---
 
@@ -83,12 +91,22 @@ Yomitan is an incredibly useful browser extension that functions as a popup dict
     <img src="/assets/yomitan-2.png" alt="Anki Card Screenshot" class="image">
 
 #### Setup
-First, install dictionaries for use in Yomitan. Downloading all dictionaries or the same ones is not required.
+First, install dictionaries for use in Yomitan. Downloading all dictionaries or the same ones is not required. 
 
-* Install [krdict_v2.zip](https://github.com/Samuihasu/krdict-yomichan/releases/tag/v2){target="_blank" rel="noopener"}
-* Install [Frequency & IPA & KO-EN](https://github.com/Lyroxide/yomitan-ko-dic/releases){target="_blank" rel="noopener"} (Press 'Show all 30 assets')
-* Install [Hanja Dict](https://github.com/peldas/yomitan-dicts?tab=readme-ov-file#korean-korean){target="_blank" rel="noopener"}
+IPA Dict provides pronounciation, Frequency gives relative frequency, ie: 1 = Most Common.
 
+* Install [Frequency & IPA & KO-EN](https://github.com/Lyroxide/yomitan-ko-dic/releases){target="_blank" rel="noopener"} (Press 'Show all 30 assets') // Main recommended dictionary; sourced from (Korean Learners Dictionary) 
+* Install [Hanja Dict](https://github.com/peldas/yomitan-dicts?tab=readme-ov-file#korean-english){target="_blank" rel="noopener"} // From a different source than above, provides better hanja lookup when used in conjunction with above.
+* Install [jarjumarvins dict](https://github.com/jarjumarvin/yomichan_krdict/releases/tag/v1.1.0){target="_blank" rel="noopener"} // Provides a Hanja.zip which breaks down hanja. As well as krdict sourced from (Korean Learners Dictionary)
+
+For Additional Coverage 
+
+* [kty-ko-en.zip](https://pub-c3d38cca4dc2403b88934c56748f5144.r2.dev/releases/latest/kty-ko-en.zip){target="_blank" rel="noopener"} is a wiktionary that can help with some obscure words
+<br>
+* [SpazzTL's Supplemental Dictionary](https://github.com/SpazzTL/Supplemental-Korean-Dictionary){target="_blank" rel="noopener"}  is a  billingual dictionary I am making that will help with words missed by the other dictionaries, mainly words that appear in webnovels and manhwa. Currently no version out yet.
+
+Installing overlapping dictionaries has no large downsides other than performance. \
+Official Yomitan Dictionaries [here ](https://yomitan.wiki/dictionaries/){target="_blank" rel="noopener"}
 ##### Step by Step
 
 === "Step One"
@@ -102,8 +120,12 @@ First, install dictionaries for use in Yomitan. Downloading all dictionaries or 
 
 With dictionaries installed, open Yomitan settings and import settings using [this file](https://drive.google.com/file/d/12FBuZJ5jdv5z7pou3WZPY5cfOTZmUcfU/view?usp=sharing){target="_blank" rel="noopener"}.
 
-Yomitan lookups should now function. Hold shift for bilingual lookups, and alt-shift for monolingual. To set up Anki, refer to other guides, such as [Moes Way](https://learnjapanese.moe/yomichan/){target="_blank" rel="noopener"}.
+Yomitan lookups should now function. Hold shift for bilingual lookups, and alt-shift for monolingual. To set up Anki, refer to other guides, such as [Moes Way](https://learnjapanese.moe/yomichan/){target="_blank" rel="noopener"} or the [Official Guide](https://yomitan.wiki/anki/){target="_blank" rel="noopener"}.
 
-## TTSU Reader: Online Epub Reader
+## Resources:
+Take a look at the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page for more resources. I have personally hand made a few, such as:
 
-[TTSU Reader](https://reader.ttsu.app){target="_blank" rel="noopener"} is an online EPUB reader that works seamlessly with Yomitan, as demonstrated in the examples above. Its primary benefit is enabling easy copy-pasting of text and Yomitan usage. EPUBs can be sourced in various ways, some of which will be listed in the [:octicons-arrow-right-24:Korean Resources](koreanresources.md).
+* [Novelpedia](https://github.com/SpazzTL/Novelpedia){target="_blank" rel="noopener"} To make it easier to find novels. ![alt text](474774791-c8355ca5-7473-400d-bff2-315a24ab1c7b.png)
+* [Novelpia Downloader FORK](https://github.com/SpazzTL/NovelpiaDownloader){target="_blank" rel="noopener"}  A fork of  [CjangCjengh's NovelpiaDownloader](https://github.com/CjangCjengh/NovelpiaDownloader){target="_blank" rel="noopener"} with some additional features. 
+* [Novel to Anki](https://github.com/SpazzTL/Novel-To-Anki){target="_blank" rel="noopener"} To convert webnovels (in epub or txt format) into anki decks. (IS VERY BASIC, RESULTS WILL NEED TUNING)![alt text](477696637-1f272170-8d6f-42a0-aeb7-ac730db7ce54.png)
+* [Yomitan Dictionary Tool](https://github.com/SpazzTL/Supplemental-Korean-Dictionary) Using the Yomitan Word Adder.pyw makes it easy to add words to an existing dictionary or make your own: ![alt text](478062705-0cadd9e8-b01a-413e-b001-7c52dd4804ea.png)

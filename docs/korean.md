@@ -1,11 +1,11 @@
 # Welcome to Your Korean Language Journey!
-
-#  :construction:WIP:construction:
 ## Intro
 Welcome to the beginning of your Korean language journey! This guide will walk you through the essential steps to get started with learning Korean effectively.
 
 
-Let me first and foremost start with a small warning; this guide is HEAVILY WIP. This guide is also HEAVILY influenced by [:octicons-arrow-right-24:Japanese Resources](japanese.md). Almost all of the Japanese resources are transferable with some work! Additional Korean Resources can be found in the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page.
+Let me first and foremost start with a small warning; this guide is still WIP. This guide is also HEAVILY influenced by [:octicons-arrow-right-24:Japanese Resources](japanese.md). Almost all of the Japanese resources are transferable with some work! Additional Korean Resources can be found in the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page.
+
+If you want to contribute, open a github issue or pull request on [Github](https://github.com/SpazzTL/SpazzTL.github.io).
 
 Now that we have the out of the way, here is some cruicial info for learning Korean! 
 
@@ -47,6 +47,23 @@ Now its time to learn some vocab, and there exist few ways better than Anki for 
 
 Setting up Anki is straightforward. A detailed setup guide is coming soon, but for now, general Anki setup guides for other languages or the default settings can be used.
 
+#### Basic Setup Guide:
+* Ensure FSRS is enabled.
+* Use FSRS optimize features. 
+* Set retention rate between 80%-90%
+* Configure leeches threshold ( A leech is a word you consistently forget.)
+* (JP Guides have a much more in-depth setup guide than here.)
+
+=== "Settings 1"
+    ![Anki Settings 1](assets/anki-settings-1.png){height=300 width=600}
+=== "Settings 2"
+    ![Anki Settings 2](assets/anki-settings-2.png){height=300 width=600}
+=== "Settings 3"
+    ![Anki Settings 3](assets/anki-settings-3.png){height=300 width=600}
+> Credit to [Lazy Guide](https://lazyguidejp.github.io/jp-lazy-guide/setup/)
+
+<br> 
+
 Once Anki is installed, the true grind begins. Many excellent [pre-made Korean flashcard decks](https://ankiweb.net/shared/decks?search=korean){target="_blank" rel="noopener"} are available to kickstart vocabulary and grammar acquisition.
 
 Some recommended decks include:
@@ -57,7 +74,7 @@ Some recommended decks include:
 * [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} 
 * Make your own with an epub with Novel to Anki (Very scrappy, results will not be perfect) [Here](koreanresources.md)
 
-**Start** with just one or two decks and aim to learn approximately 20 (or 40 if you have a lot of time) new words daily and diligently complete reviews.  
+**Start** with just one or two decks and aim to learn approximately 10-20 (or 40 if you have a lot of time) new words daily and diligently complete reviews.  The more new words you do, the more reviews you will have to do. At first the reviews may seem super easy and take no time, but within 1-2 weeks you will have 100-200 reviews per day. \
 **Consistency** is paramount for making significant progress. <br>
 **As new words** are learned, ensure engagement with Korean content through various resources such as textbooks, grammar guides, graded readers, and pronunciation guides. <br>
 **Content choices** should align with specific learning goals (e.g., reading, conversation, or speech).
@@ -69,11 +86,14 @@ Some tips if you struggle with remembering new words:
 * Practice making sentences with the new words!
 * Watch/Read/Engage with media where the word appears frequently.
 
+#### Important Note:
+Anki is ***not a*** magic wand, you can get good vocab through anki, but it *MUST* be used in conjunction with immersion of some kind for optimal and useable results. Try not to spend hours a day on Anki, while it can help, spending more than 30-45min a day has a large diminishing return. 
+
 ---
 
 ## The Grind: Immersion & Mining
 
-This is often the most challenging, yet ultimately rewarding and time-consuming, part of language learning: immersion. Once a foundational vocabulary (recommended 500 words or more) is established, active engagement with Korean content and self-challenge can begin. Fortunately, several tools and workflows can make this process **much** easier and more bearable.
+This is often the most challenging, yet ultimately rewarding and time-consuming, part of language learning: immersion. Once a foundational vocabulary (recommended 500 words or more [Depends on content you want to engage with.]) is established, active engagement with Korean content and self-challenge can begin. Fortunately, several tools and workflows can make this process **much** easier and more bearable. 
 
 ### Yomitan: Popup Dictionary & Anki Integration
 
@@ -125,10 +145,19 @@ With dictionaries installed, open Yomitan settings and import settings using [th
 
 Yomitan lookups should now function. Hold shift for bilingual lookups, and alt-shift for monolingual. To set up Anki, refer to other guides, such as [Moes Way](https://learnjapanese.moe/yomichan/){target="_blank" rel="noopener"} or the [Official Guide](https://yomitan.wiki/anki/){target="_blank" rel="noopener"}.
 
+### Starting to Immerse 
+Now that you have a basic setup of tools, you can start immersing easily! This is a massive milestone, as immersion will be where you learn the majority of your vocabulary and gain most of your understanding of the language. As with most of this guide, the JP guides go in more detail about immersion, and most of what they say will carry over. But some important things to keep in mind are:
+
+* Engage with content you enjoy! Dont choose something super easy if you can't stand engaging with it.
+* Consistency is key! Try to immerse a little every day. Ideally you should immerse more than you do Anki. 
+* Don't worried if you struggle alot, struggle is normal in this step, attempt to find something a little easier to engage with and keep going! 
+* Look at the resources guide and mess with your setup to find a setup you enjoy using. Almost all the resources will work on Android as well as Desktop.
+
+
 ## Resources:
 Take a look at the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page for more resources. I have personally hand made a few, such as:
 
-* [Novelpedia](https://github.com/SpazzTL/Novelpedia){target="_blank" rel="noopener"} To make it easier to find novels. ![alt text](474774791-c8355ca5-7473-400d-bff2-315a24ab1c7b.png)
+* [Novelpedia](https://github.com/SpazzTL/Novelpedia){target="_blank" rel="noopener"} To make it easier to find novels. ![alt text](assets/474774791-c8355ca5-7473-400d-bff2-315a24ab1c7b.png)
 * [Novelpia Downloader FORK](https://github.com/SpazzTL/NovelpiaDownloader){target="_blank" rel="noopener"}  A fork of  [CjangCjengh's NovelpiaDownloader](https://github.com/CjangCjengh/NovelpiaDownloader){target="_blank" rel="noopener"} with some additional features. 
-* [Novel to Anki](https://github.com/SpazzTL/Novel-To-Anki){target="_blank" rel="noopener"} To convert webnovels (in epub or txt format) into anki decks. (IS VERY BASIC, RESULTS WILL NEED TUNING)![alt text](477696637-1f272170-8d6f-42a0-aeb7-ac730db7ce54.png)
-* [Yomitan Dictionary Tool](https://github.com/SpazzTL/Supplemental-Korean-Dictionary) Using the Yomitan Word Adder.pyw makes it easy to add words to an existing dictionary or make your own: ![alt text](478062705-0cadd9e8-b01a-413e-b001-7c52dd4804ea.png)
+* [Novel to Anki](https://github.com/SpazzTL/Novel-To-Anki){target="_blank" rel="noopener"} To convert webnovels (in epub or txt format) into anki decks. (IS VERY BASIC, RESULTS WILL NEED TUNING)![alt text](assets/477696637-1f272170-8d6f-42a0-aeb7-ac730db7ce54.png)
+* [Yomitan Dictionary Tool](https://github.com/SpazzTL/Supplemental-Korean-Dictionary) Using the Yomitan Word Adder.pyw makes it easy to add words to an existing dictionary or make your own: ![alt text](assets/478062705-0cadd9e8-b01a-413e-b001-7c52dd4804ea.png)

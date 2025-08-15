@@ -11,10 +11,13 @@
 
 
 ---
-# Tools 
+# Tools (Unordered)
+Most of these will work on Desktop AND Android.
+
+* <a href="https://toggl.com/" target="_blank" rel="noopener">Toggl Track</a> A Freemium service for tracking time spent, also serves as a pomoduro timer. (Free version is perfect for this usecase)
 * <a href="https://github.com/CjangCjengh/NovelpiaDownloader/releases" target="_blank" rel="noopener">Novelpia Downloader</a> Download Novelpia novels you have access to (requires novelpia account). ![alt text](image.png)
-* <a href="https://github.com/SpazzTL/NovelpiaDownloader" target="_blank" rel="noopener">My Fork of Novelpia Downloader</a> Adds a bunch of features such as: Improved EPUB Formatting, File Size Optimization, Author Notices Support.![alt text](475648913-81b5a264-cc22-4f82-8a4b-341d342c9fc3.png)
-* <a href="https://spazztl.github.io/Novelpedia/" target="_blank" rel="noopener">Novelpedia</a> A website I made to easily search and filter Korean (and Chinese currently.) webnovels. Useful for finding something to read. ![alt text](474774791-c8355ca5-7473-400d-bff2-315a24ab1c7b-1.png)
+* <a href="https://github.com/SpazzTL/NovelpiaDownloader" target="_blank" rel="noopener">My Fork of Novelpia Downloader</a> Adds a bunch of features such as: Improved EPUB Formatting, File Size Optimization, Author Notices Support.![alt text](assets/475648913-81b5a264-cc22-4f82-8a4b-341d342c9fc3.png)
+* <a href="https://spazztl.github.io/Novelpedia/" target="_blank" rel="noopener">Novelpedia</a> A website I made to easily search and filter Korean (and Chinese currently.) webnovels. Useful for finding something to read. ![alt text](assets/474774791-c8355ca5-7473-400d-bff2-315a24ab1c7b-1.png)
 * <a href="https://yomitan.wiki/" target="_blank" rel="noopener"> Yomitan </a> A browser extension that lets you use a pop-up dictionary. The reason for so many of the below resources being browser based. 
 * <a href="https://reader.ttsu.app" target="_blank" rel="noopener"> TTSU Reader </a> Great web based epub reader (made for japanese, character counter does NOT work in korean). 
 * <a href="https://peldas.github.io/ebook-reader-korean/manage" target="_blank" rel="noopener"> Korean Fork of TTSU Reader </a> A OLD fork that works better with Korean (Does not receive updates). (if you dont need the character counter/progress bar/reading stats, original works fine otherwhise use this or my fork below.)
@@ -23,7 +26,7 @@
 * <a href="https://github.com/SpazzTL/Novel-To-Anki" target="_blank" rel="noopener"> Novel to Anki </a> Script I made; Take a epub or txt and convert it into a anki deck, with sentences and definitions. (Requires tinkering!)
 * <a href="https://github.com/SpazzTL/Supplemental-Korean-Dictionary/tree/main" target="_blank" rel="noopener">Supplemental Korean Dictionary </a>My WIP Dictionary (not yet available) and a custom program I made to make a custom Yomitan dictionary much easier. Or modify an existing one.
 * <a href="https://github.com/kaihouguide/Mangatan?tab=readme-ov-file#for-pc-desktop" target="_blank" rel="noopener">Mangatan</a> Similar to the Japanese OCR [Mokuro](https://github.com/kha-white/mokuro){target="_blank" rel="noopener"}, allows you to read Manhwa in your browser with Yomitan support. 
-
+* <a href="https://kimchi-reader.app/" target="_blank" rel="noopener"> Kimchi Reader </a> Don't want to setup everything by yourself? This is a PAID subscription service that provides you with: A All-in-One browser extension for Desktop and Android, and a Android (ios soon) Application. Some of the features include: A popup dictionary pre-configured, content recomendations according to your known words, grammar guides, subtitle support and more. I don't personally use it, but I may soon lol...
 ---
 # More Resources (Sites ETC)
 * <a href="https://www.reddit.com/r/Korean/comments/hw4gy0/the_ultimate_beginners_resource_thread/" target="_blank" rel="noopener"> Reddit Beginner Korean Megathread </a>

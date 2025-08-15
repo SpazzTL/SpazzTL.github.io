@@ -9,7 +9,7 @@
 ## Language Guides & Resources
 
 * :flag_kr: **Korean**
-    An in-depth, modern guide designed for comprehensive learning. (W.I.P.)
+    An in-depth, modern guide designed for comprehensive learning.
     [:octicons-arrow-right-24: View Korean Guide](korean.md)
 
 * :flag_jp: **Japanese**
@@ -26,4 +26,4 @@
 
 (Or click the tabs in the menu * Mobile)
 
-<small>This guide was last updated ```August, 14, 2025``` !</small>
+<small>This guide was last updated ```August, 15, 2025``` !</small>

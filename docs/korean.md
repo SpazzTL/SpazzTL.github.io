@@ -96,7 +96,7 @@ Anki is ***not a*** magic wand, you can get good vocab through anki, but it *MUS
 This is often the most challenging, yet ultimately rewarding and time-consuming, part of language learning: immersion. Once a foundational vocabulary (recommended 500 words or more [Depends on content you want to engage with.]) is established, active engagement with Korean content and self-challenge can begin. Fortunately, several tools and workflows can make this process **much** easier and more bearable. 
 
 ### Kimchi Reader
-If you don't want to set everything up yourself, Kimchi reader is a great PAID alternative, try the 1 month free trial and decide if you want to pay monthly for it. [:octicons-arrow-right-24:Korean Resources](koreanresources.md) 
+If you don't want to set everything up yourself, Kimchi reader is a great PAID alternative, try the 7 day free trial and decide if you want to pay monthly for it. [:octicons-arrow-right-24:Korean Resources](koreanresources.md) 
 
 Otherwise the guide to setup everything yourself is below!
 

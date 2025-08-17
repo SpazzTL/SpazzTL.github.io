@@ -95,6 +95,11 @@ Anki is ***not a*** magic wand, you can get good vocab through anki, but it *MUS
 
 This is often the most challenging, yet ultimately rewarding and time-consuming, part of language learning: immersion. Once a foundational vocabulary (recommended 500 words or more [Depends on content you want to engage with.]) is established, active engagement with Korean content and self-challenge can begin. Fortunately, several tools and workflows can make this process **much** easier and more bearable. 
 
+### Kimchi Reader
+If you don't want to set everything up yourself, Kimchi reader is a great PAID alternative, try the 1 month free trial and decide if you want to pay monthly for it. [:octicons-arrow-right-24:Korean Resources](koreanresources.md) 
+
+Otherwise the guide to setup everything yourself is below!
+
 ### Yomitan: Popup Dictionary & Anki Integration
 
 Yomitan is an incredibly useful browser extension that functions as a popup dictionary. Hovering over Korean text on a webpage will automatically display definitions and audio. Its main feature is Anki integration, allowing effortless "mining" of new cards. "Mining" refers to the process of encountering a new word, looking it up, and adding it to an Anki deck for later study.
@@ -153,6 +158,7 @@ Now that you have a basic setup of tools, you can start immersing easily! This i
 * Don't worried if you struggle alot, struggle is normal in this step, attempt to find something a little easier to engage with and keep going! 
 * Look at the resources guide and mess with your setup to find a setup you enjoy using. Almost all the resources will work on Android as well as Desktop.
 
+* Starting with Manhwa might be easier than jumping into webnovels like I did... Mangatan will make this much, much easier. I heavily recommend it! 
 
 ## Resources:
 Take a look at the [:octicons-arrow-right-24:Korean Resources](koreanresources.md) page for more resources. I have personally hand made a few, such as:

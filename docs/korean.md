@@ -72,7 +72,8 @@ Some recommended decks include:
 * [Korean Vocabulary by Evita](https://ankiweb.net/shared/info/4066961604){target="_blank" rel="noopener"}
 * [TTMIK's First 500 Korean Words](https://ankiweb.net/shared/info/1551455917){target="_blank" rel="noopener"}
 * [Korean Vocabulary Core 2k/5k/10k](https://ankiweb.net/shared/info/994297597){target="_blank" rel="noopener"} 
-* Make your own with an epub with Novel to Anki (Very scrappy, results will not be perfect) [Here](koreanresources.md)
+* [Soseol Core 1.5k ](https://ankiweb.net/shared/info/966679107?cb=1755782116248){target="_blank" rel="noopener"} 
+I Made the Soseol Core 1.5k :) 
 
 **Start** with just one or two decks and aim to learn approximately 10-20 (or 40 if you have a lot of time) new words daily and diligently complete reviews.  The more new words you do, the more reviews you will have to do. At first the reviews may seem super easy and take no time, but within 1-2 weeks you will have 100-200 reviews per day. \
 **Consistency** is paramount for making significant progress. <br>
@@ -118,7 +119,6 @@ Yomitan is an incredibly useful browser extension that functions as a popup dict
     This screenshot displays a mined word in Anki. (Note: A custom Anki card setup is in use.)
     <img src="/assets/yomitan-2.png" alt="Anki Card Screenshot" class="image">
 
-#### Setup
 First, install dictionaries for use in Yomitan. Downloading all dictionaries or the same ones is not required. 
 
 IPA Dict provides pronounciation, Frequency gives relative frequency, ie: 1 = Most Common.
